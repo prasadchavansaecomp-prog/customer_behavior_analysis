@@ -3,7 +3,7 @@
 ## 📌 Overview
 This project analyzes customer shopping behavior using transactional data to uncover
 patterns in spending, product preferences, discounts, and subscription behavior.
-The goal is to derive actionable business insights using Python, SQL, and Power BI.
+The objective is to generate actionable business insights using Python, SQL, and Power BI.
 
 ---
 
@@ -18,26 +18,26 @@ The goal is to derive actionable business insights using Python, SQL, and Power 
 ---
 
 ## 🛠 Tools & Technologies
-- **Python**: Pandas, NumPy, Matplotlib  
-- **SQL**: PostgreSQL  
-- **Power BI**: Interactive dashboard  
-- **Excel**: Initial data review  
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (PostgreSQL)
+- Power BI
+- Excel
 
 ---
 
 ## 🔍 Project Workflow
-1. Data loading and cleaning using Python  
-2. Handling missing values and standardizing columns  
-3. Feature engineering (age groups, customer segments)  
-4. Loading cleaned data into PostgreSQL  
-5. Business analysis using SQL queries  
-6. Data visualization using Power BI  
+1. Loaded and explored the dataset using Python  
+2. Cleaned data and handled missing values  
+3. Performed feature engineering (age groups, customer segments)  
+4. Loaded cleaned data into PostgreSQL  
+5. Executed SQL queries to answer business questions  
+6. Built an interactive Power BI dashboard  
 
 ---
 
 ## 📊 Key Analysis Performed
-- Revenue comparison by gender  
-- Subscriber vs non-subscriber spending behavior  
+- Revenue analysis by gender  
+- Subscriber vs non-subscriber spending comparison  
 - Identification of high-spending discount users  
 - Top-rated and most-purchased products  
 - Shipping type impact on purchase amount  
@@ -47,36 +47,31 @@ The goal is to derive actionable business insights using Python, SQL, and Power 
 ---
 
 ## 📈 Dashboard
-The Power BI dashboard provides an interactive view of:
+The Power BI dashboard visualizes:
 - Revenue by category and age group  
 - Subscription distribution  
-- Sales trends and customer segments  
+- Sales and customer segment trends  
 
-*(Dashboard screenshots available in the images folder)*
+Dashboard screenshots are available in the `images` folder.
 
 ---
 
 ## 💡 Key Insights
 - Loyal customers form the largest customer segment  
-- Subscription status does not significantly change average spend  
+- Subscription status shows minimal impact on average spending  
 - Certain products are highly dependent on discounts  
-- Young and middle-aged customers contribute the highest revenue  
+- Young and middle-aged customers generate the highest revenue  
 
 ---
 
 ## 🚀 Future Improvements
-- Predictive modeling for customer churn  
+- Customer churn prediction  
 - Product recommendation system  
-- Automated data pipeline  
-- Advanced customer lifetime value (CLV) analysis  
+- Automated ETL pipeline  
+- Customer lifetime value (CLV) analysis  
 
 ---
 
 ## 📚 Learning Note
 This project was inspired by a YouTube tutorial and implemented independently by me.
-The code structure, analysis, and insights reflect my own understanding and execution.
-
----
-
-## 📬 Contact
-Feel free to connect with me on LinkedIn or GitHub for feedback or collaboration.
+All analysis, code execution, and insights are based on my understanding and practice.
